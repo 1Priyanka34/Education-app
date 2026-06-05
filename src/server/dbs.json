@@ -1,0 +1,272 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "JZw76EfopgQ"
+    },
+    {
+      "name": "priyanka",
+      "email": "p@gmail.com",
+      "password": "123",
+      "id": "opu1puG_Pgs"
+    },
+    {
+      "name": "p",
+      "email": "pr@gmail.com",
+      "password": "1234",
+      "id": "ZoMWwdhlAqE"
+    },
+    {
+      "name": "Aman",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "id": "25EccZX5hgg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "BlyfGy4LCyg"
+    },
+    {
+      "id": "1oJp2CUO0iA",
+      "courseId": "1",
+      "courseName": "Web Development",
+      "review": "best course "
+    },
+    {
+      "id": "CK2h4LiTT5k",
+      "courseId": "6",
+      "courseName": "Ethical Hacking",
+      "review": "Best course"
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "p",
+      "topic": "javascript",
+      "difficulty": "Easy",
+      "score": 16,
+      "percentage": "80",
+      "status": "Passed",
+      "id": "oqIf_VdPIl0"
+    },
+    {
+      "name": "p",
+      "topic": "database",
+      "difficulty": "Easy",
+      "score": 4,
+      "percentage": "21",
+      "status": "Failed",
+      "id": "WMxAmP6j9JM"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "Web Development",
+      "category": "Web",
+      "image": "web.jpg",
+      "description": "Learn HTML, CSS and JavaScript for modern responsive websites.",
+      "course1": "HTML",
+      "course2": "CSS",
+      "course3": "JavaScript",
+      "price": 5000
+    },
+    {
+      "id": "2",
+      "title": "Graphic Design",
+      "category": "Design",
+      "image": "graphic.jpg",
+      "description": "Master Photoshop, Illustrator and Figma professionally.",
+      "course1": "Photoshop",
+      "course2": "Illustrator",
+      "course3": "Figma",
+      "price": 4500
+    },
+    {
+      "id": "3",
+      "title": "React Native",
+      "category": "Android",
+      "image": "logo.jpg",
+      "description": "Build Android and iOS applications using React Native.",
+      "course1": "React",
+      "course2": "Navigation",
+      "course3": "API",
+      "price": 7000
+    },
+    {
+      "id": "4",
+      "title": "Android Development",
+      "category": "Android",
+      "image": "graphic.jpg",
+      "description": "Learn Android app development using Kotlin and Jetpack.",
+      "course1": "Kotlin",
+      "course2": "Firebase",
+      "course3": "Room DB",
+      "price": 8000
+    },
+    {
+      "id": "5",
+      "title": "Machine Learning",
+      "category": "AI/ML",
+      "image": "web.jpg",
+      "description": "Learn Machine Learning and Artificial Intelligence with Python.",
+      "course1": "Python",
+      "course2": "AI",
+      "course3": "TensorFlow",
+      "price": 9000
+    },
+    {
+      "id": "6",
+      "title": "Ethical Hacking",
+      "category": "Security",
+      "image": "eth.jpg",
+      "description": "Learn cybersecurity and penetration testing concepts.",
+      "course1": "Linux",
+      "course2": "Networking",
+      "course3": "Security",
+      "price": 6500
+    },
+    {
+      "id": "7",
+      "title": "Data Structures",
+      "category": "Web",
+      "image": "graphic.jpg",
+      "description": "Master DSA concepts for coding interviews and placements.",
+      "course1": "Arrays",
+      "course2": "Trees",
+      "course3": "Graphs",
+      "price": 5500
+    },
+    {
+      "id": "8",
+      "title": "UI/UX Design",
+      "category": "Design",
+      "image": "eth.jpg",
+      "description": "Design beautiful mobile and web interfaces professionally.",
+      "course1": "Figma",
+      "course2": "Adobe XD",
+      "course3": "Prototype",
+      "price": 6000
+    }
+  ],
+  "student": [
+    {
+      "userId": 1,
+      "id": "1",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "website": "www.aaravdev.com",
+      "mobile": "+91 9876543210",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "description": "Frontend developer passionate about React and UI design."
+    },
+    {
+      "userId": 2,
+      "id": "2",
+      "name": "Priya Verma",
+      "email": "priya.verma@example.com",
+      "website": "www.priyacreative.com",
+      "mobile": "+91 9876543211",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "description": "Graphic designer specialized in branding and illustration."
+    },
+    {
+      "userId": 3,
+      "id": "3",
+      "name": "Rohan Gupta",
+      "email": "rohan.gupta@example.com",
+      "website": "www.rohancode.com",
+      "mobile": "+91 9876543212",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "description": "Full Stack Developer working with MERN technologies."
+    },
+    {
+      "userId": 4,
+      "id": "4",
+      "name": "Ananya Singh",
+      "email": "ananya.singh@example.com",
+      "website": "www.ananyablog.com",
+      "mobile": "+91 9876543213",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg",
+      "description": "Content creator and digital marketing strategist."
+    },
+    {
+      "userId": 5,
+      "id": "5",
+      "name": "Karan Mehta",
+      "email": "karan.mehta@example.com",
+      "website": "www.karanweb.com",
+      "mobile": "+91 9876543214",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "description": "Backend engineer focused on scalable APIs."
+    },
+    {
+      "userId": 6,
+      "id": "6",
+      "name": "Neha Kapoor",
+      "email": "neha.kapoor@example.com",
+      "website": "www.nehaart.com",
+      "mobile": "+91 9876543215",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "description": "UI/UX designer creating engaging user experiences."
+    },
+    {
+      "userId": 7,
+      "id": "7",
+      "name": "Aditya Rao",
+      "email": "aditya.rao@example.com",
+      "website": "www.adityatech.com",
+      "mobile": "+91 9876543216",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg",
+      "description": "Android developer experienced in Kotlin and Firebase."
+    },
+    {
+      "userId": 8,
+      "id": "8",
+      "name": "Simran Kaur",
+      "email": "simran.kaur@example.com",
+      "website": "www.simrandesign.com",
+      "mobile": "+91 9876543217",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "description": "Creative illustrator and branding specialist."
+    },
+    {
+      "userId": 9,
+      "id": "9",
+      "name": "Vikram Joshi",
+      "email": "vikram.joshi@example.com",
+      "website": "www.vikramportfolio.com",
+      "mobile": "+91 9876543218",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "description": "Cybersecurity enthusiast and ethical hacker."
+    },
+    {
+      "userId": 10,
+      "id": "10",
+      "name": "Meera Nair",
+      "email": "meera.nair@example.com",
+      "website": "www.meeracode.com",
+      "mobile": "+91 9876543219",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "description": "Software engineer passionate about AI and ML."
+    },
+    {
+      "userId": 11,
+      "id": "11",
+      "name": "Rahul Yadav",
+      "email": "rahul.yadav@example.com",
+      "website": "www.rahulyadav.com",
+      "mobile": "+91 9876543220",
+      "image": "https://randomuser.me/api/portraits/men/11.jpg",
+      "description": "Data analyst skilled in Python and Power BI."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
