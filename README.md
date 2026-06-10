@@ -1,3 +1,4 @@
+<img width="472" height="835" alt="leaderboardpage" src="https://github.com/user-attachments/assets/1f40323b-940d-40ed-b470-1be2905d757b" />
 Output
 <img width="463" height="837" alt="quizresult" src="https://github.com/user-attachments/assets/1ad23817-ebb5-47b9-bf3b-d99b0937aa15" />
 <img width="456" height="790" alt="quizpage2" src="https://github.com/user-attachments/assets/5c9cafbc-50de-43b1-9182-7b7fd1bcccbf" />
