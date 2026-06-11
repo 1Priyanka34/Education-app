@@ -152,8 +152,6 @@ my-app/
 ├── package.json
 ├── package-lock.json
 │
-├── README.md
-│
 └── .gitignore
 
 ## 🔥 API Configuration
