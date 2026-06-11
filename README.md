@@ -1,4 +1,4 @@
-# 🎓 AI Quiz Generator App
+# 🎓 Online Education App
 
 A React Native Educational Application that generates AI-powered quizzes using OpenRouter AI APIs. Users can select a topic and difficulty level, attempt multiple-choice questions, view their scorecard, and track quiz performance through a leaderboard.
 
